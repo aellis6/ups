@@ -12,7 +12,7 @@ username = "anya"
 password = "anya"
 query = { charset = "utf8mb4 }"""
 import streamlit as st 
-import mysql.connector
+#import mysql.connector
 import pandas as pd 
 from datetime import date 
 from utils import ( 
