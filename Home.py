@@ -3,8 +3,15 @@
 #python -m streamlit run Home.py
 #vsecrets.toml:
 
+"""[connections.mysql]
+dialect = "mysql"
+host = "10.234.34.225"
+port = 42311
+database = "Unnamed"
+username = "anya"
+password = "anya"
+query = { charset = "utf8mb4 }"""
 import streamlit as st 
-#import mysql.connector
 import pandas as pd 
 from datetime import date 
 from utils import ( 
