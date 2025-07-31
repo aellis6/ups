@@ -1,0 +1,6 @@
+[theme]
+base = "light"
+primaryColor="#005DAA"                  
+secondaryBackgroundColor="#fbbb06"      
+textColor="#340404"     # Dark brown text
+
